@@ -5,6 +5,8 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		Banque maBanque = new Banque();
+		
+		Banque maBanque2 = new Banque();
 	}
 
 }
