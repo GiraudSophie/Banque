@@ -6,7 +6,7 @@ public class Test {
 
 		Banque maBanque = new Banque();
 		
-		Banque maBanque2 = new Banque();
+		Banque manouvelleBanque = new Banque();
 	}
 
 }
